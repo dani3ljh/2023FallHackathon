@@ -3,7 +3,8 @@
 }
 
 .right-half {
-	position: relative;
+	position: absolute;
 	width: 50%;
-	top: -50%;
+	transform: translateY(-100px);
+	right: 0;
 }
