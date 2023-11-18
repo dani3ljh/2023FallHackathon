@@ -1,0 +1,10 @@
+.left-half {
+	width: 50%;
+}
+
+.right-half {
+	position: absolute;
+	width: 50%;
+	transform: translateY(-100px);
+	right: 0;
+}
