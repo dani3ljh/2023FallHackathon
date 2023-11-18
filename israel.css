@@ -1,0 +1,9 @@
+.left-half {
+	width: 50%;
+}
+
+.right-half {
+	position: relative;
+	width: 50%;
+	top: -50%;
+}
