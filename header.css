@@ -1,0 +1,26 @@
+:root {
+	--header-bg-color: rgb(66,110,134);
+}
+
+header {
+	background: var(--header-bg-color);
+	padding: 20px;
+	font-size: 20pt;
+	font-family: 'Inter', sans-serif;
+	color:white;
+}
+
+.logo {
+	width: 15%;
+	position: absolute;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50pt;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
